@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94ef0eb9-da30-4c85-8117-8982966c8a4e" name="Changes" comment="arrays and cycles">
-      <change afterPath="$PROJECT_DIR$/homeTasks/classes/classes.js" afterDir="false" />
+    <list default="true" id="94ef0eb9-da30-4c85-8117-8982966c8a4e" name="Changes" comment="classes">
+      <change afterPath="$PROJECT_DIR$/homeTasks/stringsRegx/stringReg.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670969996817</updated>
-      <workItem from="1670969998471" duration="16318000" />
+      <workItem from="1670969998471" duration="22177000" />
     </task>
     <task id="LOCAL-00001" summary="conditions">
       <created>1670971783934</created>
@@ -77,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671033998711</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="classes">
+      <created>1671057956659</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671057956659</updated>
+    </task>
+    <task id="LOCAL-00005" summary="classes">
+      <created>1671058075358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671058075358</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +112,7 @@
     <MESSAGE value="conditions" />
     <MESSAGE value="functions and objects" />
     <MESSAGE value="arrays and cycles" />
-    <option name="LAST_COMMIT_MESSAGE" value="arrays and cycles" />
+    <MESSAGE value="classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes" />
   </component>
 </project>
